@@ -1,4 +1,4 @@
-# GRASP
+# OO Design Principle
 
 **1.** **单一职责原则**
 
